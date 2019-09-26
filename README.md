@@ -7,6 +7,8 @@ contains all dotfiles for the ubuntu i3-gaps setup
 
 **Status bar:** polybar
 
+**Search bar:** rofi
+
 **Wallpapers:** feh
 
 **Screenshots:** screengrab
